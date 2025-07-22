@@ -63,7 +63,7 @@
     align-items: start;
     justify-content: space-evenly;
 }
-.num1{
+.num2{
     p{
         font-size: 20px;
         width: 352px;
@@ -76,7 +76,7 @@
         margin-top: 20px;
     }
 }
-.num2{
+.num3{
     h2{
         font-size: 25px;
         color: #FF8A00;
